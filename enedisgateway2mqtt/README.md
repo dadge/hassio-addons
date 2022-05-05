@@ -19,7 +19,7 @@ _Thanks to everyone having starred my repo! To star it click on the image below,
 ## About
 
 Enedisgateway2mqtt use Enedis Gateway API to send data in your MQTT Broker.
-See its github for all informations : https://github.com/m4dm4rtig4n/enedisgateway2mqtt/blob/master/README.md
+See its github for all informations : https://github.com/dadge/enedisgateway2mqtt/blob/master/README.md
 
 ## Configuration
 
@@ -38,7 +38,7 @@ TZ: Europe/Paris # Sets a specific timezone
 - Config.yaml
   Everything is configured using the config.yaml file found in /config/enedisgateway2mqtt/enedisgateway2mqtt.conf.
 
-The complete list of options can be seen here : https://github.com/m4dm4rtig4n/enedisgateway2mqtt#environment-variable
+The complete list of options can be seen here : https://github.com/dadge/enedisgateway2mqtt#environment-variable
 
 ## Installation
 
